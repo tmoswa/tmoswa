@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmoswa
-- 👀 I’m interested in Java,PHP Laravel, React JS and Flutter.
+- 👀 I’m interested in Java and aswell have knowledge and experience with Flutter, PHP Laravel, Angular and React JS.
 - 📫 Reach me on +263 777 791 898...
 
 <!---
