@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmoswa
-- 👀 I’m a Java, Python, Angular, React, DevOps Developer, SQL and NO-SQL Databases; Also have knowledge in Flutter, PHP Laravel
+- 👀 I’m a Java,NodeJs, Angular, React, DevOps Developer, SQL and NO-SQL Databases; Also have knowledge in Flutter, PHP Laravel
 - 📫 Reach me on +263 777 791 898...
 
 <!---
