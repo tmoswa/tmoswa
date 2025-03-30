@@ -48,8 +48,11 @@ Full-Stack Software Engineer
 🔹 Get in Touch
 
 📧 Email: timothymoswa@gmail.com
+
 🔗 LinkedIn: Timothy Moswa
+
 💻 GitHub: github.com/timothymoswa
+
 🔗 Portfolio: [Timothy Moswa](https://tmoswa.github.io/)
 
     Passionate about scalable architectures, automation, and solving complex problems with clean, efficient code. Let's build something amazing! 🚀
