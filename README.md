@@ -3,9 +3,9 @@ Full-Stack Software Engineer
 🚀 Experienced Full-Stack Developer & Technical Lead with a strong background in building scalable, high-performance systems. Passionate about microservices architecture, API integrations, DevOps, and data-driven applications.
 🔹 Technical Stack
 
-    Languages: JavaScript, TypeScript, PHP, Python
+    Languages: PHP, Java JavaScript, TypeScript, Python
 
-    Frameworks: Node.js, Laravel, Django, Express.js, Nest.js, React.js, Next.js
+    Frameworks: Laravel,Springboot, Django, Node.js, Express.js, Nest.js, React.js, Next.js, Flutter
 
     Databases: MySQL, PostgreSQL, MongoDB, SQLite, Oracle
 
@@ -19,7 +19,7 @@ Full-Stack Software Engineer
 
     Designed a microservices-driven platform for tobacco farming, auctions, exports, and production.
 
-    Integrated(Microservices) PHP + Laravel, Python, NodeJS + Next.js, PostgreSQL, MySQL, and Prometheus for real-time insights.
+    Integrated(Microservices) Java, Laravel, Python, NodeJS + Next.js, Flutter, PostgreSQL, MySQL, and Prometheus for real-time insights.
 
     Achieved 40% efficiency improvement and 30% reduction in shipment delays.
 
@@ -50,5 +50,6 @@ Full-Stack Software Engineer
 📧 Email: timothymoswa@gmail.com
 🔗 LinkedIn: Timothy Moswa
 💻 GitHub: github.com/timothymoswa
+🔗 Portfolio: [Timothy Moswa](https://tmoswa.github.io/)
 
     Passionate about scalable architectures, automation, and solving complex problems with clean, efficient code. Let's build something amazing! 🚀
