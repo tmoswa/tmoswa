@@ -49,7 +49,7 @@ Full-Stack Software Engineer
 
 📧 Email: timothymoswa@gmail.com
 
-🔗 LinkedIn: Timothy Moswa
+🔗 LinkedIn: [Timothy Moswa](https://www.linkedin.com/in/timothy-moswa-b63944105/)
 
 💻 GitHub: github.com/timothymoswa
 
