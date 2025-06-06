@@ -1,6 +1,7 @@
 Full-Stack Software Engineer
 
 🚀 Experienced Full-Stack Developer & Technical Lead with a strong background in building scalable, high-performance systems. Passionate about microservices architecture, API integrations, DevOps, and data-driven applications.
+
 🔹 Technical Stack
 
     Languages: PHP, JavaScript, TypeScript
