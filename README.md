@@ -2,18 +2,6 @@ Full-Stack Software Engineer
 
 🚀 Experienced Full-Stack Developer & Technical Lead with a strong background in building scalable, high-performance systems. Passionate about microservices architecture, API integrations, DevOps, and data-driven applications.
 
-🔹 Technical Stack
-
-    Languages: PHP, JavaScript, TypeScript
-
-    Frameworks: Laravel, Symphony, Node.js, Express.js, Nest.js, React.js, Next.js
-
-    Databases: MySQL, PostgreSQL, MongoDB, SQLite, Oracle
-
-    Cloud & DevOps: AWS (EC2, S3, Lambda, SNS, SQS), Docker, Kubernetes, Jenkins
-
-    Monitoring & Testing: Sentry, Prometheus, Grafana, Jest, PHPunit
-
 🔹 Work Experience
 
     Web Developer @ Staxo Group (UK) (2024 – Present)
