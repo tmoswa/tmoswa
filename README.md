@@ -6,7 +6,7 @@ Harare, Zimbabwe · [LinkedIn](https://linkedin.com/in/timothy-moswa-b63944105)
 
 ## What I work on
 
-Nine years building backend systems for regulated finance. I'm second-in-charge of ICT at a retail bank, where I build and run the Java/Spring Boot services behind card switching, digital lending, core banking integration and financial batch processing.
+Nine years building backend systems for regulated finance. I'm second-in-charge of ICT Dev Team at a retail bank, where I build and run the Java/Spring Boot services behind card switching, digital lending, core banking integration and financial batch processing.
 
 Most of my work sits on money-movement paths, which shapes how I build: idempotent operations, explicit retry and compensation semantics, reconciliation between systems that disagree, audit trails and approval controls. Correctness over velocity.
 
