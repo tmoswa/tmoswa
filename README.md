@@ -17,11 +17,11 @@ I like the diagnostic end of the job — the defects that survive years in produ
 ## Stack
 
 - **Backend:** Java (8 · 17 · 21 · 25) · Spring Boot 2.3 → 3.5 · Spring Data JPA / Hibernate · Spring Security (JWT, OAuth2) · Spring Batch · Spring Cloud Config · Flyway · MapStruct · Maven
-- **Payments & banking:** ISO 8583 (jPOS) · ISO 20022 · POS/ATM acquiring and issuing · reversals · settlement and reconciliation · RTGS straight-through processing · Finastra Fusion Essence · Temenos T24 · Apache Fineract · ESB integration
+- **Payments & banking:** ISO 8583 (jPOS) · ISO 20022 · POS/ATM acquiring and issuing · reversals · settlement and reconciliation · RTGS straight-through processing · Finastra Fusion Essence · Temenos T24 · Apache Fineract · ESB integration · API Manager
 - **Integrations:** Stripe · GoCardless · PSD2 open banking (ABN AMRO) · SAP · Microsoft Dynamics 365 · Sage · WhatsApp Business · Vonage
 - **Lending:** origination workflows · credit scoring and affordability · bureau, AML and sanctions screening · disbursement · repayments and arrears
 - **Data & platform:** PostgreSQL · MySQL · Redis · Hazelcast · RabbitMQ · Kafka · Keycloak · Docker · Kubernetes (EKS) · AWS · Nginx · GitLab CI · Prometheus · Grafana
-- **Testing:** JUnit 5 · Mockito · Testcontainers · Playwright
+- **Testing:** JUnit 5 · Mockito · Testcontainers
 - **AI engineering:** Claude Code (hooks, skills, subagents) · spec-driven development · context engineering · agent guardrails
 - **Frontend & other:** TypeScript · Next.js / React · TanStack Query · Tailwind · CakePHP 5 · Laravel · Flutter
 
