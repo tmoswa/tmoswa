@@ -6,7 +6,7 @@ Harare, Zimbabwe · [LinkedIn](https://linkedin.com/in/timothy-moswa-b63944105)
 
 ## What I work on
 
-Nine years building backend systems for regulated finance. I'm second-in-charge of the ICT Systems Development section at a retail bank, where I build and run the Java/Spring Boot services behind card switching, digital lending, core banking integration and financial batch processing.
+Nine years building backend systems for regulated finance. I'm currently a Lead Developer at a retail bank, where I build and run the Java/Spring Boot services behind card switching, digital lending, core banking integration and financial batch processing.
 
 Before and alongside that, I built payment and enterprise integrations for Dutch and UK companies: Stripe and GoCardless, ABN AMRO's PSD2 open-banking APIs, SAP, Microsoft Dynamics 365 and Sage, shipped as microservices on Kubernetes on AWS.
 
