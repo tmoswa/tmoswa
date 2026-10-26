@@ -2,7 +2,7 @@
 
 Senior software engineer — Java · Spring Boot · payments, lending, core banking and integrations.
 
-Harare, Zimbabwe · [LinkedIn](https://linkedin.com/in/timothy-moswa-b63944105)
+Harare, Zimbabwe · [Portfolio](https://tmoswa.github.io/java-portfolio/) · [LinkedIn](https://linkedin.com/in/timothy-moswa-b63944105)
 
 ## What I work on
 
